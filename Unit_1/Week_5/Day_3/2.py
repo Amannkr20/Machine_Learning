@@ -23,11 +23,11 @@ ans=[Ques(question[0], "a"),
      Ques(question[7], "c"), 
      Ques(question[8], "c")
      ]
-
+score = 0
 for i in ans:
     ans=input(i.q)
     if ans==i.a:
         score=score+1
-
 print("Total score is: ",score)
+
 
