@@ -1,5 +1,5 @@
 
 
-git push -u origin main
-git commit -m "Add Week_5"          
-On branch main
+git add .
+git commit -m "Add Week_5"
+git push origin main
